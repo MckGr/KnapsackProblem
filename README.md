@@ -1,4 +1,4 @@
-Knapsack Problem
+# Knapsack Problem
 
 Implementacja algorytmu brute-force dla problemu plecakowego.
 Program powinien wygenerować wszystkie możliwe wektory charakterystyczne reprezentujące potencjalne rozwiązania (ale nie powinien przechowywać ich w pamięci ani wypisywać wszystkich).
